@@ -1,3 +1,10 @@
+---
+layout: post
+title: Jekyll Tags on Github Pages
+description: blablabla
+tags: jekyll blog github-page
+---
+
 # LinearRegression1Variable
 
 This project shows how to use linear regression to predict the data trend in Matlab.
